@@ -54,10 +54,8 @@ class objective(object):
 
 ##################################### INPUT #######################################
 # Data Parameters
-# n_halos      = 3674
 # n_properties = 9
 seed         = 4
-# mass_per_particle = 6.56561e+11 
 f_rockstar = "Rockstar_z=0.0.txt"
 
 # Model Parameters
