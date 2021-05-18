@@ -1,13 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import sys, os
-import torch
-import torchvision
-import torch.nn as nn
-import torch.optim as optim
-import torch.nn.functional as F
-from torchvision import transforms, utils, datasets
-from torch.utils.data import Dataset, DataLoader, random_split
 from sklearn.ensemble import RandomForestRegressor
 import optuna
 import data 
